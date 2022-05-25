@@ -1,2 +1,2 @@
-mybatch.bat
-mybatchclone.bat
+call mybatch.bat
+call mybatchclone.bat
