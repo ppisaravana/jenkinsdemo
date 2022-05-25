@@ -1,0 +1,2 @@
+mybatch.bat
+mybatchclone.bat
