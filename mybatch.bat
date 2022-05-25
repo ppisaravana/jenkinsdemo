@@ -1,1 +1,1 @@
-echo "Welcome to git -- Second commit 3 again"
+echo "Welcome to git -- Second commit 3 again poll scm"
